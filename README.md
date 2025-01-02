@@ -135,3 +135,5 @@ You are required to submit the following for review:
 ## GitHub Repo
 https://github.com/doebelc/New-Vehicle-Generator.git
 
+## Video Recording
+https://drive.google.com/file/d/1KvrDBtJsoh91swmDbCUQL8XQtPA8K-BL/view?usp=sharing
